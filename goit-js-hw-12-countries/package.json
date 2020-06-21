@@ -1,5 +1,5 @@
 {
-  "name": "goit-js-hw-12-countries",
+  "name": "goit-js-hw-12-countries_V1",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Romankhom/goit-js-hw-12-countries_V1.git"
+    "url": "git+https://github.com/Romankhom/goit-js-hw-12-countries_V1/goit-js-hw-12-countries.git"
   },
   "keywords": [],
   "author": "Roman Khomenko <homenko.r.v@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Romankhom/goit-js-hw-12-countries/issues"
+    "url": "https://github.com/Romankhom/goit-js-hw-12-countries_V1/goit-js-hw-12-countries/issues"
   },
-  "homepage": "https://github.com/Romankhom/goit-js-hw-12-countries_V1#readme",
+  "homepage": "https://github.com/Romankhom/goit-js-hw-12-countries_V1/goit-js-hw-12-countries#readme",
   "devDependencies": {
     "@babel/core": "^7.8.7",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
